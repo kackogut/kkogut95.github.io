@@ -1,6 +1,0 @@
-package com.kopiko.kopiko
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
